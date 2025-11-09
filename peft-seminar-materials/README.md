@@ -1,0 +1,1 @@
+1. LoRA Finetune [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/podidiving/sirius-2025-seminar-materials/blob/main/peft-seminar-materials/lora-train.ipynb)
